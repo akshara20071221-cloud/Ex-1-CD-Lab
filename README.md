@@ -84,6 +84,9 @@ int main() {
 
 <img width="715" height="580" alt="Screenshot 2026-08-21 124418" src="https://github.com/user-attachments/assets/135ff433-2b24-4098-9793-0a6e58f8c8bf" />
 
+<img width="800" height="365" alt="image" src="https://github.com/user-attachments/assets/eeb82170-ee8a-458e-8de8-5cb94ab738fa" />
+
+
 
 
 # RESULT
